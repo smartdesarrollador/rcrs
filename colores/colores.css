@@ -1,0 +1,43 @@
+.flat{
+    /* --- colores flat --- */
+    color: #1abc9c ;
+    color: #3498db;
+    color: #9b59b6;
+    color: #8e44ad;
+    color: #34495e;
+    color: #2c3e50;
+    color: #f1c40f;
+    color: #f39c12;
+    color: #e67e22;
+    color: #e74c3c;
+    color: #c0392b;
+    color: #ecf0f1;
+    color: #bdc3c7;
+    color: #95a5a6;
+    color: #7f8c8d;
+}
+
+.material_design{
+    /* --- Material design --- */
+    color: #ef5350 ;
+    color: #b61827;
+    color: #ff867c;
+
+    /* --- Material design --- */
+    color: #ec407a;
+    color: #b4004e;
+    color: #ff77a9;
+
+    /* --- Material design --- */
+    color: #42a5f5;
+    color: #0077c2;
+    color: #80d6ff;
+     
+    /* --- Material design --- */
+    color: #26c6da;
+    color: #0095a8;
+    color: #6ff9ff;
+
+    /* ----- REFERENCIA: https://material.io/resources/color/ ---- */
+
+}
